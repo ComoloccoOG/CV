@@ -1,0 +1,40 @@
+  body {
+    background-color: #22577E;
+  }
+
+  hr {
+    width: 10%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #F1DDBF;
+    border-width: 10px;
+  }
+
+  img {
+    width: 200px;
+    height: 200px;
+  }
+
+  h1 {
+    color: #78938A;
+  }
+
+  h3 {
+    color: #92BA92;
+  }
+
+  p {
+    color: #FD5D5D;
+  }
+
+  li {
+    color: #FD5D5D;
+  }
+
+  table {
+    color: #FD5D5D;
+  }
+
+  thead {
+    color: #8D8DAA;
+  }
